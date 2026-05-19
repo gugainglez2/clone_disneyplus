@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/demo.gif" alt="Demonstração Animada do Clone do Disney+" width="800">
+  <img src="./assets/demo.png" alt="Demonstração Animada do Clone do Disney+" width="800">
 </div>
 
 # 🎬 Disney+ Landing Page Clone
