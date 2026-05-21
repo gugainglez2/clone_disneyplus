@@ -32,48 +32,6 @@ Este projeto é um clone da **Landing Page oficial de assinatura do Disney+**. O
 
 ---
 
-## 🛠️ Como Executar o Projeto Localmente
-
-### Pré-requisitos
-Você precisará ter o [Node.js](https://nodejs.org/) instalado.
-
-### Passo a Passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/gugainglez2/clone_disneyplus.git
-Entre na pasta do projeto:
-
-Bash
-cd clone_disneyplus
-Instale as dependências do projeto:
-
-Bash
-npm install
-Inicie o ambiente de desenvolvimento (Gulp):
-
-Bash
-npm run dev
-(Nota: Caso seu script principal use outro comando, execute gulp ou o comando configurado em seu package.json)
-
-📂 Estrutura Estrutural
-Plaintext
-clone_disneyplus/
-
-├── src/
-
-│   ├── assets/        # Imagens publicitárias, logos e ícones oficiais
-
-│   ├── scripts/       # Lógica JavaScript (FAQ, Efeitos de Scroll)
-
-│   └── styles/        # Estilização organizada com SASS (.scss)
-
-├── dist/              # Arquivos finais otimizados gerados pelo Gulp
-
-├── index.html         # Estrutura principal da Landing Page
-
-└── package.json       # Dependências de desenvolvimento
-
 🧠 Principais Aprendizados (EBAC)
 Organização BEM: Criação de classes CSS limpas e fáceis de dar manutenção seguindo a metodologia Block, Element, Modifier.
 
